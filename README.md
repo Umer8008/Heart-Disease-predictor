@@ -173,6 +173,3 @@ Python · pandas · NumPy · Matplotlib · Seaborn · scikit-learn · joblib · 
 
 ---
 
-## 📄 License
-
-Add your preferred license here (e.g. MIT).
